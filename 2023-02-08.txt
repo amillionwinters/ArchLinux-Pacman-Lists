@@ -34,3 +34,16 @@ whois
 curl
 openssh
 rsync
+noto-fonts
+inter-font
+cantarell-fonts
+ttf-fira-mono
+ttf-fira-code
+ttf-fira-sans
+ttf-droid
+ttf-opensans
+ttf-inconsolata
+ttf-roboto
+pipewire
+wireplumber
+wpa_supplicant
