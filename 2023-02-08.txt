@@ -4,6 +4,7 @@ ripgrep
 bandwhich
 sway
 wlroots
+tilix
 swaybg
 swayimg
 swaylock
