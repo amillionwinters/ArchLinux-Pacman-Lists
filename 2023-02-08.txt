@@ -47,3 +47,15 @@ ttf-roboto
 pipewire
 wireplumber
 wpa_supplicant
+dhcpcd
+wayland-protocols
+cairo
+pcre2
+json-c
+pango
+gdk-pixbuf2
+scdoc
+man
+meson
+seatd
+gdm
