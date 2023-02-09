@@ -60,3 +60,6 @@ man
 meson
 seatd
 gdm
+pipewire-jack
+openresolv
+man-db
