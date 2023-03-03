@@ -1,0 +1,13 @@
+avahi
+dnsutils
+firewalld
+net-tools
+netctl
+nss-mdns
+wget
+whois
+curl
+openssh
+rsync
+wpa_supplicant
+dhcpcd
