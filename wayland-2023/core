@@ -39,3 +39,8 @@ grim
 firefox
 mesa
 vulkan-intel
+sof-firmware
+fprintd
+bemenu
+bemenu-wayland
+
